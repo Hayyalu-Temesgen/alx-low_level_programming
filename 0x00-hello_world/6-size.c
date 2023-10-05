@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - this is the main function
+ * main - this is the main function
  *
- *return: this is will return 0 if successful
+ * Return: this is will return 0 if successful
  */
 
 int main(void)
