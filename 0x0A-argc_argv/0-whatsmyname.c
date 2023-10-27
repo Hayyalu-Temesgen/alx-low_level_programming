@@ -3,7 +3,7 @@
 /**
  * main - this function will print the name
  * @argc: argument count
- * #argv: argument vector
+ * @argv: argument vector
  * Return: will return 0 if successful
  */
 
