@@ -10,7 +10,7 @@
  * Return: pointer to the array, or NULL if it fails
  */
 
-char *create_array(unsigned int size, char c);
+char *create_array(unsigned int size, char c)
 {
 	char *str;
 	unsigned int i;
