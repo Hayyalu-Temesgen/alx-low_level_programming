@@ -6,7 +6,6 @@
 #include <stdlib.h>
 
 /**
- *
  * @n: Integer
  * @index: Index of the node in the list
  * @next: Pointer to the next node
@@ -49,3 +48,4 @@ skiplist_t *linear_skip(skiplist_t *list, int value);
 
 
 #endif /* SEARCH_ALGO_H */
+
